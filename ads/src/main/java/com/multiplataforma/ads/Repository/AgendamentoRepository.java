@@ -1,7 +1,7 @@
-package br.com.multiplataforma.ads.Repository;
+package com.multiplataforma.ads.Repository;
 
 import br.com.multiplataforma.ads.Model.Agendamento;
-import br.com.multiplataforma.ads.Model.Servicos;
+import com.multiplataforma.ads.Model.Servicos;
 import org.springframework.data.mongodb.repository.MongoRepository;
 
 import java.time.LocalDate;

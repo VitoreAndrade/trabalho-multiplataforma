@@ -1,6 +1,6 @@
 package com.multiplataforma.ads.Repository;
 
-import br.com.multiplataforma.ads.Model.Login;
+import com.multiplataforma.ads.Model.Login;
 import org.springframework.data.mongodb.repository.MongoRepository;
 
 import java.util.Optional;

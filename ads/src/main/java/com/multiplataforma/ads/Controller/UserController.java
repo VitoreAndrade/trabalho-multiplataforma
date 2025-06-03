@@ -1,10 +1,9 @@
-package br.com.multiplataforma.ads.Controller;
+package com.multiplataforma.ads.Controller;
 
-import br.com.multiplataforma.ads.DTO.DadosAtualizacaoUser;
-import br.com.multiplataforma.ads.DTO.DadosCadastroUserDTO;
-import br.com.multiplataforma.ads.DTO.DadosListagemUserDTO;
-import br.com.multiplataforma.ads.Model.User;
-import br.com.multiplataforma.ads.Service.UserService;
+import com.multiplataforma.ads.DTO.DadosAtualizacaoUser;
+import com.multiplataforma.ads.DTO.DadosCadastroUserDTO;
+import com.multiplataforma.ads.DTO.DadosListagemUserDTO;
+import com.multiplataforma.ads.Service.UserService;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

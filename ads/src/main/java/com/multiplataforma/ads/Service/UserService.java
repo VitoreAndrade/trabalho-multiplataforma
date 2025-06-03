@@ -1,14 +1,12 @@
-package br.com.multiplataforma.ads.Service;
+package com.multiplataforma.ads.Service;
 
-import br.com.multiplataforma.ads.DTO.DadosAtualizacaoUser;
-import br.com.multiplataforma.ads.DTO.DadosCadastroUserDTO;
-import br.com.multiplataforma.ads.DTO.DadosListagemUserDTO;
-import br.com.multiplataforma.ads.Model.Login;
-import br.com.multiplataforma.ads.Model.User;
-import br.com.multiplataforma.ads.Repository.LoginRepository;
-import br.com.multiplataforma.ads.Repository.UserRepository;
-
-import org.apache.coyote.Response;
+import com.multiplataforma.ads.DTO.DadosAtualizacaoUser;
+import com.multiplataforma.ads.DTO.DadosCadastroUserDTO;
+import com.multiplataforma.ads.DTO.DadosListagemUserDTO;
+import com.multiplataforma.ads.Model.Login;
+import com.multiplataforma.ads.Model.User;
+import com.multiplataforma.ads.Repository.LoginRepository;
+import com.multiplataforma.ads.Repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.crypto.password.PasswordEncoder;

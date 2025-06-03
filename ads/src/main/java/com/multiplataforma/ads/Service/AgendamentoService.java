@@ -1,12 +1,12 @@
-package br.com.multiplataforma.ads.Service;
+package com.multiplataforma.ads.Service;
 
 import br.com.multiplataforma.ads.DTO.DadosAgendamentoDTO;
 import br.com.multiplataforma.ads.Model.Agendamento;
-import br.com.multiplataforma.ads.Model.Login;
-import br.com.multiplataforma.ads.Model.Servicos;
-import br.com.multiplataforma.ads.Repository.AgendamentoRepository;
-import br.com.multiplataforma.ads.Repository.LoginRepository;
-import br.com.multiplataforma.ads.Repository.ServicoRepository;
+import com.multiplataforma.ads.Model.Login;
+import com.multiplataforma.ads.Model.Servicos;
+import com.multiplataforma.ads.Repository.AgendamentoRepository;
+import com.multiplataforma.ads.Repository.LoginRepository;
+import com.multiplataforma.ads.Repository.ServicoRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

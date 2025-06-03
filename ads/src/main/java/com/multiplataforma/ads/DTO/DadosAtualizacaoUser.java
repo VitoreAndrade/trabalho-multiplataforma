@@ -1,13 +1,9 @@
 package com.multiplataforma.ads.DTO;
 
-public record DadosListagemUserDTO(
-        String id,
+public record DadosAtualizacaoUser(
         String nome,
         String email,
         String telefone,
-        int idade,
-        String login
-
+        Integer idade
 ) {
-
 }

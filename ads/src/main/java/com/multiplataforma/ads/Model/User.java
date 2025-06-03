@@ -1,6 +1,7 @@
-package br.com.multiplataforma.ads.Model;
+package com.multiplataforma.ads.Model;
 
-import br.com.multiplataforma.ads.DTO.DadosCadastroUserDTO;
+import com.multiplataforma.ads.DTO.DadosCadastroUserDTO;
+import com.multiplataforma.ads.Model.Login;
 import lombok.*;
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.index.Indexed;

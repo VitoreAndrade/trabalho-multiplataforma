@@ -1,4 +1,4 @@
-package br.com.multiplataforma.ads.DTO;
+package com.multiplataforma.ads.DTO;
 
 import jakarta.validation.Valid;
 import jakarta.validation.constraints.Email;
