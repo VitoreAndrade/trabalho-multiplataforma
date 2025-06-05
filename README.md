@@ -41,8 +41,6 @@ Maven 3.8+
 
 MongoDB Community Edition
 
-'''' Evidências da apresentação do projeto
 
-![WhatsApp Image 2025-05-06 at 20 38 17 (2)](https://github.com/user-attachments/assets/cf46436b-c707-4a13-92e0-c24f4252eebb)
 
 
